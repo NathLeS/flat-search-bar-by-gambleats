@@ -1,4 +1,4 @@
-# TypeScript Components by Rupert
+# SearchBar Components by GamblEats Team
 
 This component was created during a CESI School of Engineering Project for a food delivery website named GamblEats.
 
