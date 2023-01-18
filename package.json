@@ -1,5 +1,5 @@
 {
-  "name": "modern-search-bar-by-gambleats",
+  "name": "flat-search-bar-by-gambleats",
   "version": "1.0.2",
   "description": "A simple modern flat design search bar",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NathLeS/modern-search-bar-by-gambleats.git"
+    "url": "git+https://github.com/NathLeS/flat-search-bar-by-gambleats.git"
   },
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NathLeS/modern-search-bar-by-gambleats/issues"
+    "url": "https://github.com/NathLeS/flat-search-bar-by-gambleats/issues"
   },
-  "homepage": "https://github.com/NathLeS/modern-search-bar-by-gambleats#readme",
+  "homepage": "https://github.com/NathLeS/flat-search-bar-by-gambleats#readme",
   "devDependencies": {
     "@types/react": "^17.0.14",
     "@types/react-dom": "^18.0.6",
