@@ -1,19 +1,19 @@
 # TypeScript Components by Rupert
 
-This repository was created as part of a guide to publishing TypeScript React components. You can read the guide over here: [Publishing TypeScript React components to NPM](https://fildon.hashnode.dev/publishing-typescript-react-components-to-npm)
+This component was created during a CESI School of Engineering Project for a food delivery website named GamblEats.
 
 ## Getting Started
 
-Install this package:
+Install this package :
 
 ```shell
-npm add typescript-components-by-rupert
+npm add flat-search-bar-by-gambleats
 ```
 
-Import the Counter component:
+Import the SearchBar component :
 
 ```js
-import { Counter } from "typescript-components-by-rupert";
+import { SearchBar } from "flat-search-bar-by-gambleats";
 ```
 
-You can then render the `Counter` component like any other React component in JSX.
+You can then render the `SearchBar` component like any other React component in JSX.
