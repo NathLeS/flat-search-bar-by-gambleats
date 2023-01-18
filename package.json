@@ -1,6 +1,6 @@
 {
   "name": "flat-search-bar-by-gambleats",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple modern flat design search bar",
   "main": "index.js",
   "scripts": {
